@@ -1,0 +1,12 @@
+#Main objectives of this exam includes
+
+Understand infrastructure as code (IaC) concepts
+Understand the purpose of Terraform (vs other IaC)
+Understand Terraform basics
+Use Terraform outside of core workflow
+Interact with Terraform modules
+Use the core Terraform workflow
+Implement and maintain state
+Read, generate, and modify configuration
+Understand Terraform Cloud capabilities
+
